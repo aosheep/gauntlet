@@ -1,9 +1,5 @@
 # The Official Guide to aosheep’s Infinity Gauntlet Datapack V2.5.2
 
-# 
-
-# 
-
 # Blank Infinity Gauntlet
 
 The [Blank Infinity Gauntlet](#blank-infinity-gauntlet) doesn’t do anything on its own, but is still an essential part to obtaining the fully powered version.
@@ -245,7 +241,7 @@ To craft the Power Infused Netherite Sword, throw the [Iron Hammer](#iron-hammer
 ## Configure Enchantments Cycle
 
 This weapon is able to be used with the [Powered Infinity Gauntlet](#powered-infinity-gauntlet)’s [Configure Enchantments](#configure-enchantments) ability to cycle through its “controversial” enchantments. The cycle goes:
-`Fire Aspect III, Knockback III ➔ Fire Aspect III ➔ Knockback III ➔ None` 
+`Fire Aspect III, Knockback III ➔ Fire Aspect III ➔ Knockback III ➔ None`
 After none, it goes back to the first cycle setting.
 
 # Reality Infused Netherite Multitool
