@@ -228,15 +228,15 @@ To craft the [Iron Hammer](#iron-hammer), you need to throw 2 [Reinforced Sticks
 
 ## Usage
 
-Used in all [Forging](#forging) and [Breaking](#breaking) processes as well as to craft the [Power Infused Netherite Sword](#power-infused-netherite-sword).
+Used in all [Forging](#forging) and [Breaking](#breaking) processes.
 
 # Power Infused Netherite Sword
 
 The [Power Stone](#power-stone) and a Netherite Sword fused together to make the strongest weapon one can wield. As well as being unbreakable, it automatically comes with the enchantments: Sharpness IX, Looting III, Sweeping Edge III, Fire Aspect III, and Knockback III.
 
-## Crafting
+## Obtaining
 
-To craft the Power Infused Netherite Sword, throw the [Iron Hammer](#iron-hammer), a Netherite Sword, and the [Power Stone](#power-stone) on the ground together. The Iron Hammer will not be consumed.
+Can be [Forged](#forging) from the [Power Stone](#power-stone) and a Netherite Sword thrown along with the [Iron Hammer](#iron-hammer) onto a lit Blast Furnace.
 
 ## Configure Enchantments Cycle
 
