@@ -4,7 +4,7 @@
 
 # 
 
-# Blank Infinity Gauntlet {#blank-infinity-gauntlet}
+# Blank Infinity Gauntlet
 
 The [Blank Infinity Gauntlet](#blank-infinity-gauntlet) doesn’t do anything on its own, but is still an essential part to obtaining the fully powered version.
 
