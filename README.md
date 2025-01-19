@@ -203,8 +203,8 @@ The [Mind Stone](#mind-stone) acts as a default state where you gain all the pas
 
 * #### *Unavoidable*
 
-  * When falling into the void, (beneath y= \-65) the user will be teleported up 100 blocks from their current location and given slow falling for 5 seconds.  
-  * Also applies to [Invulnerable Items](#invulnerable-items) falling into the void (beneath y= \-33).
+  * When falling into the void, (beneath y=-65, y=-33 in the end) the user will be teleported up 100 blocks from their current location and given slow falling for 5 seconds.  
+  * Also applies to [Invulnerable Items](#invulnerable-items) falling into the void.
 
 # Reinforced Stick
 
@@ -212,7 +212,7 @@ The Reinforced Stick is a crafting material used to make the [Iron Hammer](#iron
 
 ## Recipe
 
-In a Crafting Table, place a stick in the center and surround its four adjacent sides with Iron Nuggets.
+![Reinforced Stick Recipe](https://cdn.discordapp.com/attachments/1046922454687285309/1330661717793046528/reinforced_stick_crafting.png?ex=678ecacc&is=678d794c&hm=ac3c6ffa06f08f4f0ac81f639628fb59c249aefdb940e0e20e375eee0524b523&)
 
 ## Usage
 
