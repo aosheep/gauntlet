@@ -18,9 +18,9 @@ To craft the Infinity Stones, throw a crafting table on top of an upwards facing
 
 ## Time Stone
 
-### Crafting Process
+### Barrel Recipe
 
-(Reference to be added.)
+![Time Stone Recipe](https://cdn.discordapp.com/attachments/1046922454687285309/1330682776592191519/Time_Stone_Recipe.png?ex=678ede68&is=678d8ce8&hm=dd40f512d4359b0585d1ddf57808fede379b038391c97507ccf8e3c566c4c2f2&)
 
 ### [Forging](#forging) Process
 
@@ -28,9 +28,9 @@ Alternatively, you can Forge the Time Stone using 4 [Time Stone Shards](#time-st
 
 ## Power Stone
 
-### Crafting Process
+### Barrel Recipe
 
-(Reference to be added.)
+![Power Stone Recipe](https://cdn.discordapp.com/attachments/1046922454687285309/1330682775694475395/Power_Stone_Recipe.png?ex=678ede68&is=678d8ce8&hm=3ab568e44909cacccf210ae174849586d6d4e0f2c2db13c9efab817945f6c008&)
 
 ### [Forging](#forging) Process
 
@@ -38,9 +38,9 @@ Alternatively, you can Forge the Power Stone using 4 [Power Stone Shards](#power
 
 ## Space Stone
 
-### Crafting Process
+### Barrel Recipe
 
-(Reference to be added.)
+![Space Stone Recipe](https://cdn.discordapp.com/attachments/1046922454687285309/1330682776390733854/Space_Stone_Recipe.png?ex=678ede68&is=678d8ce8&hm=f1b1305cddfc0cf078a69e191e122aa1ed04e3040d26e20e7873cb13964fe4f5&)
 
 ### [Forging](#forging) Process
 
@@ -48,9 +48,9 @@ Alternatively, you can Forge the Space Stone using 4 [Space Stone Shards](#space
 
 ## Reality Stone
 
-### Crafting Process
+### Barrel Recipe
 
-(Reference to be added.)
+![Reality Stone Recipe](https://cdn.discordapp.com/attachments/1046922454687285309/1330682775933685901/Reality_Stone_Recipe.png?ex=678ede68&is=678d8ce8&hm=b39ebfac4c01e693584e398d520747909b0bc1e8874b06876af11cac210e00e1&)
 
 ### [Forging](#forging) Process
 
@@ -58,9 +58,9 @@ Alternatively, you can Forge the Reality Stone using 4 [Reality Stone Shards](#r
 
 ## Soul Stone
 
-### Crafting Process
+### Barrel Recipe
 
-(Reference to be added.)
+![Soul Stone Recipe](https://cdn.discordapp.com/attachments/1046922454687285309/1330682776176820255/Soul_Stone_Recipe.png?ex=678ede68&is=678d8ce8&hm=42a6b3992ba074688bbe63ce50e8d95b057c8ecca12fadbc0472fa50704ae9d2&)
 
 (If you do not have a way of obtaining player heads on your server/world, I would recommend either [this](https://vanillatweaks.net/share#58JGu4) or [this](https://vanillatweaks.net/share#e2SRNk) Vanilla Tweaks Datapack. Vanilla mob heads will not work for this recipe, though the mob heads from the second recommended Datapack will.)
 
@@ -70,9 +70,9 @@ Alternatively, you can Forge the Soul Stone using 4 [Soul Stone Shards](#soul-st
 
 ## Mind Stone
 
-### Crafting Process
+### Barrel Recipe
 
-(Reference to be added.)
+![Mind Stone Recipe](https://cdn.discordapp.com/attachments/1046922454687285309/1330682775451340810/Mind_Stone_Recipe.png?ex=678ede68&is=678d8ce8&hm=68929ae3df911fb3c6f80e242d4fe72e3c77be27ede82e59c3fca39523444c83&)
 
 ### [Forging](#forging) Process
 
