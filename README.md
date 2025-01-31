@@ -214,7 +214,8 @@ The Reinforced Stick is a crafting material used to make the [Iron Hammer](#iron
 
 ## Recipe
 
-![Reinforced Stick Recipe](https://cdn.discordapp.com/attachments/1046922454687285309/1330661717793046528/reinforced_stick_crafting.png?ex=678ecacc&is=678d794c&hm=ac3c6ffa06f08f4f0ac81f639628fb59c249aefdb940e0e20e375eee0524b523&)
+![Reinforced_Stick_Recipe](https://github.com/user-attachments/assets/ca5f7460-9aea-418f-b20c-de29409d13d0)
+
 
 ## Usage
 
