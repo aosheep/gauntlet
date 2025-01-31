@@ -205,7 +205,7 @@ The [Mind Stone](#mind-stone) acts as a default state where you gain all the pas
 
 * #### *Unavoidable*
 
-  * When falling into the void, (beneath y=-65, y=-33 in the end) the user will be teleported up 100 blocks from their current location and given slow falling for 5 seconds.  
+  * When falling into the void, (beneath y=-65 in the overworld, y=-35 in the nether and end) the user will be teleported up 100 blocks from their current location and given slow falling for 5 seconds.  
   * Also applies to [Invulnerable Items](#invulnerable-items) falling into the void.
 
 # Reinforced Stick
