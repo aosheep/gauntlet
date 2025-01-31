@@ -8,6 +8,7 @@ The [Blank Infinity Gauntlet](#blank-infinity-gauntlet) doesn’t do anything on
 
 To craft the [Blank Infinity Gauntlet](#blank-infinity-gauntlet), you need to [Forge](#forging) it by throwing 10 Gold Blocks, 3 Redstone Blocks, and the [Iron Hammer](#iron-hammer) on a lit Blast Furnace.
 
+
 # Infinity Stones
 
 The Infinity Stones are an essential part to making the fully [Powered Infinity Gauntlet](#powered-infinity-gauntlet). Like the [Blank Infinity Gauntlet](#blank-infinity-gauntlet), the stones do not do anything on their own, but are all essential to obtaining the whole Gauntlet.
@@ -20,7 +21,7 @@ To craft the Infinity Stones, throw a crafting table on top of an upwards facing
 
 ### Barrel Recipe
 
-![Time Stone Recipe](https://cdn.discordapp.com/attachments/1046922454687285309/1330682776592191519/Time_Stone_Recipe.png?ex=678ede68&is=678d8ce8&hm=dd40f512d4359b0585d1ddf57808fede379b038391c97507ccf8e3c566c4c2f2&)
+![Time Stone Recipe](https://github.com/user-attachments/assets/0c289fb6-dff2-483d-9368-1722f620d4e4)
 
 ### [Forging](#forging) Process
 
@@ -30,7 +31,7 @@ Alternatively, you can Forge the Time Stone using 4 [Time Stone Shards](#time-st
 
 ### Barrel Recipe
 
-![Power Stone Recipe](https://cdn.discordapp.com/attachments/1046922454687285309/1330682775694475395/Power_Stone_Recipe.png?ex=678ede68&is=678d8ce8&hm=3ab568e44909cacccf210ae174849586d6d4e0f2c2db13c9efab817945f6c008&)
+![Power Stone Recipe](https://github.com/user-attachments/assets/ae3b6cf5-8f8f-4a9e-a322-2d5b6aef7194)
 
 ### [Forging](#forging) Process
 
@@ -40,7 +41,7 @@ Alternatively, you can Forge the Power Stone using 4 [Power Stone Shards](#power
 
 ### Barrel Recipe
 
-![Space Stone Recipe](https://cdn.discordapp.com/attachments/1046922454687285309/1330682776390733854/Space_Stone_Recipe.png?ex=678ede68&is=678d8ce8&hm=f1b1305cddfc0cf078a69e191e122aa1ed04e3040d26e20e7873cb13964fe4f5&)
+![Space Stone Recipe](https://github.com/user-attachments/assets/d24cc36a-7939-4fbf-8238-2b71cb2282cd)
 
 ### [Forging](#forging) Process
 
@@ -50,7 +51,7 @@ Alternatively, you can Forge the Space Stone using 4 [Space Stone Shards](#space
 
 ### Barrel Recipe
 
-![Reality Stone Recipe](https://cdn.discordapp.com/attachments/1046922454687285309/1330682775933685901/Reality_Stone_Recipe.png?ex=678ede68&is=678d8ce8&hm=b39ebfac4c01e693584e398d520747909b0bc1e8874b06876af11cac210e00e1&)
+![Reality Stone Recipe](https://github.com/user-attachments/assets/7743b50b-2636-4027-a098-c02c5a70d76f)
 
 ### [Forging](#forging) Process
 
@@ -60,7 +61,7 @@ Alternatively, you can Forge the Reality Stone using 4 [Reality Stone Shards](#r
 
 ### Barrel Recipe
 
-![Soul Stone Recipe](https://cdn.discordapp.com/attachments/1046922454687285309/1330682776176820255/Soul_Stone_Recipe.png?ex=678ede68&is=678d8ce8&hm=42a6b3992ba074688bbe63ce50e8d95b057c8ecca12fadbc0472fa50704ae9d2&)
+![Soul Stone Recipe](https://github.com/user-attachments/assets/b8808372-a24d-4a33-b2d2-4e2964f2ea32)
 
 (If you do not have a way of obtaining player heads on your server/world, I would recommend either the More Mob Heads or Player Head Drops Vanilla Tweaks Datapacks found [here](https://vanillatweaks.net/picker/datapacks/). Vanilla mob heads will not work for this recipe, though the mob heads from the firstrecommended Datapack will.)
 
@@ -72,11 +73,12 @@ Alternatively, you can Forge the Soul Stone using 4 [Soul Stone Shards](#soul-st
 
 ### Barrel Recipe
 
-![Mind Stone Recipe](https://cdn.discordapp.com/attachments/1046922454687285309/1330682775451340810/Mind_Stone_Recipe.png?ex=678ede68&is=678d8ce8&hm=68929ae3df911fb3c6f80e242d4fe72e3c77be27ede82e59c3fca39523444c83&)
+![Mind Stone Recipe](https://github.com/user-attachments/assets/880e856d-f760-40c7-a287-9bd188a7c371)
 
 ### [Forging](#forging) Process
 
 Alternatively, you can Forge the Mind Stone using 4 [Mind Stone Shards](#mind-stone-shard) using the process shown below.
+
 
 # Powered Infinity Gauntlet
 
@@ -218,6 +220,7 @@ The Reinforced Stick is a crafting material used to make the [Iron Hammer](#iron
 
 Used in the recipe for the [Iron Hammer](#iron-hammer).
 
+
 # Iron Hammer
 
 A tool used to [Forge](#forging) and [Break](#breaking) items like the [Blank Infinity Gauntlet](#blank-infinity-gauntlet), [Infinity Stones](#infinity-stones), and tools.  
@@ -244,6 +247,7 @@ This weapon is able to be used with the [Powered Infinity Gauntlet](#powered-inf
 `Fire Aspect III, Knockback III ➔ Fire Aspect III ➔ Knockback III ➔ None`
 After none, it goes back to the first cycle setting.
 
+
 # Reality Infused Netherite Multitool
 
 The [Reality Stone](#reality-stone), a Netherite Pickaxe, a Netherite Axe, a Netherite Shovel, and a Netherite Hoe all fused together. As well as being unbreakable, all tools fused in the multitool automatically come with strong enchantments. This tool can also be [Broken](#breaking) into the [Reality Infused Netherite Pickaxe](#reality-infused-netherite-pickaxe), [Reality Infused Netherite Axe](#reality-infused-netherite-axe), [Reality Infused Netherite Shovel](#reality-infused-netherite-shovel), and [Reality Infused Netherite Hoe](#reality-infused-netherite-hoe).
@@ -262,6 +266,7 @@ After Hoe, it goes back to the first cycle setting.
 Each tool able to be swapped to with the [Reality Infused Netherite Multitool](#reality-infused-netherite-multitool) has base enchantments that come with it. All tools have Efficiency IX and the axe additionally has Sharpness IX. However, using the [Powered Infinity Gauntlet](#powered-infinity-gauntlet)’s [Configure Enchantments](#configure-enchantments) ability, each tool can cylce between its “controversial” enchantments. The cycle goes:
 `Silk Touch ➔ Fortune III`
 After Fortune III, it goes back to the first cycle setting.
+
 
 # Reality Infused Netherite Tools
 
@@ -283,6 +288,7 @@ The Reality Shard Infused Netherite Shovel is a tool that can be [Broken](#break
 
 The Reality Infused Netherite Hoe is a tool that can be [Broken](#breaking) from the [Reality Stone Infused Netherite Multitool](#reality-infused-netherite-multitool) or [Forged](#forging) from a [Reality Stone Shard](#reality-stone-shard) and a Netherite Hoe. This tool’s [Configure Enchantments](#configure-enchantments) cycle follows that of the [Reality Infused Multitool](#reality-infused-netherite-multitool).
 
+
 # Infinity Stone Shards
 
 Infinity Stone Shards are exactly what they sound like… shards of [Infinity Stones](#infinity-stones). They can be used in some recipes or as valuable currency. All can be made by the same [Breaking](#breaking) process, requiring only the [Iron Hammer](#iron-hammer) and the stone being broken, resulting in 4 of the respective Stone's shards. 4 of any one Stone's shards can also be [Forged](#forging) back together in their respective Infinity Stone.
@@ -300,6 +306,7 @@ Can be used to [Forge](#forging) individual [Reality Infused Netherite Tools](#r
 (Currently has no use.)
 ## Mind Stone Shard
 (Currently has no use.)
+
 
 # Invulnerable Items
 
@@ -326,9 +333,11 @@ All Invulnerable Items are:
 * [Reality Infused Netherite Shovel](#reality-infused-netherite-shovel)  
 * [Reality Infused Netherite Hoe](#reality-infused-netherite-hoe)
 
+
 # Breaking
 
 Breaking is a crafting process by which one item, along with the [Iron Hammer](#iron-hammer), thrown on top of any Anvil become multiple items.
+
 
 # Forging
 
