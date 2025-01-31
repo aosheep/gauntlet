@@ -63,7 +63,7 @@ Alternatively, you can Forge the Reality Stone using 4 [Reality Stone Shards](#r
 
 ![Soul Stone Recipe](https://github.com/user-attachments/assets/b8808372-a24d-4a33-b2d2-4e2964f2ea32)
 
-(If you do not have a way of obtaining player heads on your server/world, I would recommend either the More Mob Heads or Player Head Drops Vanilla Tweaks Datapacks found [here](https://vanillatweaks.net/picker/datapacks/). Vanilla mob heads will not work for this recipe, though the mob heads from the firstrecommended Datapack will.)
+(If you do not have a way of obtaining player heads on your server/world, I would recommend either the More Mob Heads or Player Head Drops Vanilla Tweaks Datapacks found [here](https://vanillatweaks.net/picker/datapacks/). Vanilla mob heads will not work for this recipe, though the mob heads from the first recommended Datapack will.)
 
 ### [Forging](#forging) Process
 
