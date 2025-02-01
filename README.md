@@ -1,4 +1,4 @@
-# The Official Guide to aosheep’s Infinity Gauntlet Datapack V2.5.2
+# The Official Guide to aosheep’s Infinity Gauntlet Datapack V2.5.4
 
 # Blank Infinity Gauntlet
 
@@ -164,11 +164,11 @@ Using the Powered Infinity Gauntlet is quite simple, though if the user is not c
 
 * #### *Configure Enchantments*
 
-  * This ability only appears once the wielder of the [Powered Infinity Gauntlet](#powered-infinity-gauntlet) holds the [Power Infused Netherite Sword](#power-infused-netherite-sword), [Reality Infused Netherite Multitool](#reality-infused-netherite-multitool), [Reality Infused Netherite Pickaxe](#reality-infused-netherite-pickaxe), [Reality Infused Netherite Axe](#reality-infused-netherite-axe), [Reality Infused Netherite Shovel](#reality-infused-netherite-shovel), or [Reality Infused Netherite Hoe](#reality-infused-netherite-hoe) in their main hand. This ability cycles through “controversial” enchantments (such as Fire Aspect, Knockback, Fortune, and Silk Touch) on the current tool/weapon in the wielder’s main hand.
+  * This ability only appears once the wielder of the Gauntlet holds the [Power Infused Netherite Sword](#power-infused-netherite-sword), [Reality Infused Netherite Multitool](#reality-infused-netherite-multitool), [Reality Infused Netherite Pickaxe](#reality-infused-netherite-pickaxe), [Reality Infused Netherite Axe](#reality-infused-netherite-axe), [Reality Infused Netherite Shovel](#reality-infused-netherite-shovel), or [Reality Infused Netherite Hoe](#reality-infused-netherite-hoe) in their main hand. This ability cycles through “controversial” enchantments (such as Fire Aspect, Knockback, Fortune, and Silk Touch) on the current tool/weapon in the wielder’s main hand.
 
 * #### *Configure Tool*
 
-  * This ability only appears once the wielder of the [Powered Infinity Gauntlet](#powered-infinity-gauntlet) holds the [Reality Infused Multitool](#reality-infused-netherite-multitool) in their main hand. This ability can be used to cycle through the tools of the Multitool.
+  * This ability only appears once the wielder of the Gauntlet holds the [Reality Infused Multitool](#reality-infused-netherite-multitool) in their main hand. This ability can be used to cycle through the tools of the Multitool.
 
 ### Soul Stone:
 
@@ -182,26 +182,25 @@ Using the Powered Infinity Gauntlet is quite simple, though if the user is not c
 
 ### Mind Stone:
 
-The [Mind Stone](#mind-stone) acts as a default state where you gain all the passive effects of having the [Powered Infinity Gauntlet](#powered-infinity-gauntlet) in your off-hand without accidentally activating an ability.
+The [Mind Stone](#mind-stone) acts as a default state where you gain all the passive effects of having the Gauntlet in your off-hand without accidentally activating an ability.
 
 ### Passive Effects:
 
-* Dolphin’s Grace  
-* Speed I  
-* Resistance I  
-* Fire Resistance I  
-* Conduit Power  
-* Night Vision  
-* Regeneration III  
+* Speed I
+* Resistance I
+* Fire Resistance I
+* Conduit Power
+* Night Vision
+* Regeneration III
 * Strength I
 
 * #### *Lure of the Simple Minded*
 
-  * Pigs will be lured to the wielder of the [Powered Infinity Gauntlet](#powered-infinity-gauntlet).
+  * Pigs will be lured to the wielder of the Gauntlet.
 
 * #### *Satisfied Hunger*
 
-  * Your hunger will never tick down so long as it is at full.
+  * Your hunger will always be at full.
 
 * #### *Unavoidable*
 
