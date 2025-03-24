@@ -1,4 +1,4 @@
-# The Official Guide to aosheep’s Infinity Gauntlet Datapack V2.5.4
+# The Official Guide to aosheep’s Infinity Gauntlet Datapack V2.5.5
 
 # Blank Infinity Gauntlet
 
@@ -8,6 +8,7 @@ The [Blank Infinity Gauntlet](#blank-infinity-gauntlet) doesn’t do anything on
 
 To craft the [Blank Infinity Gauntlet](#blank-infinity-gauntlet), you need to [Forge](#forging) it by throwing 10 Gold Blocks, 3 Redstone Blocks, and the [Iron Hammer](#iron-hammer) on a lit Blast Furnace.
 
+***
 
 # Infinity Stones
 
@@ -79,6 +80,7 @@ Alternatively, you can Forge the Soul Stone using 4 [Soul Stone Shards](#soul-st
 
 Alternatively, you can Forge the Mind Stone using 4 [Mind Stone Shards](#mind-stone-shard) using the process shown below.
 
+***
 
 # Powered Infinity Gauntlet
 
@@ -98,7 +100,8 @@ Using the Powered Infinity Gauntlet is quite simple, though if the user is not c
 
 * #### *Slow Time*
 
-  * Grants Slowness V for 2 seconds, Slow Falling for 2 seconds, and Mining Fatigue for 2 seconds to anyone in a 3 block radius including the user, but also grants Speed VII for 2 seconds, and Haste II for 2 seconds to the user only. 
+  * Grants Slowness V for 2 seconds and Mining Fatigue for 2 seconds to anything in a 3 block radius excluding the user.
+  * Grants Slow Falling for 2 seconds to anything in a 3 block radius including the user.
 
 * #### *Stop Day Cycle*
 
@@ -174,11 +177,11 @@ Using the Powered Infinity Gauntlet is quite simple, though if the user is not c
 
 * #### *Decay Soul*
 
-  * Grants Wither II for 5 seconds to anyone in a 5 block radius including the user, but also grants Regeneration V for 5 seconds to the user only.
+  * Grants Wither II for 5 seconds to anything in a 5 block radius excluding the user.
 
 * #### *Detect Soul*
 
-  * Grants Glowing I for 1 second to all entities (that have a soul) in a 10 block radius including the user.
+  * Grants Glowing I for 1 second to anything in a 10 block radius excluding the user.
 
 ### Mind Stone:
 
@@ -207,6 +210,8 @@ The [Mind Stone](#mind-stone) acts as a default state where you gain all the pas
   * When falling into the void, (beneath y=-65 in the overworld, y=-35 in the nether and end) the user will be teleported up 100 blocks from their current location and given slow falling for 5 seconds.  
   * Also applies to [Invulnerable Items](#invulnerable-items) falling into the void.
 
+***
+
 # Reinforced Stick
 
 The Reinforced Stick is a crafting material used to make the [Iron Hammer](#iron-hammer).
@@ -215,11 +220,11 @@ The Reinforced Stick is a crafting material used to make the [Iron Hammer](#iron
 
 ![Reinforced_Stick_Recipe](https://github.com/user-attachments/assets/ca5f7460-9aea-418f-b20c-de29409d13d0)
 
-
 ## Usage
 
 Used in the recipe for the [Iron Hammer](#iron-hammer).
 
+***
 
 # Iron Hammer
 
@@ -232,6 +237,8 @@ To craft the [Iron Hammer](#iron-hammer), you need to throw 2 [Reinforced Sticks
 ## Usage
 
 Used in all [Forging](#forging) and [Breaking](#breaking) processes.
+
+***
 
 # Power Infused Netherite Sword
 
@@ -247,6 +254,7 @@ This weapon is able to be used with the [Powered Infinity Gauntlet](#powered-inf
 `Fire Aspect III, Knockback III ➔ Fire Aspect III ➔ Knockback III ➔ None`
 After none, it goes back to the first cycle setting.
 
+***
 
 # Reality Infused Netherite Multitool
 
@@ -267,6 +275,7 @@ Each tool able to be swapped to with the [Reality Infused Netherite Multitool](#
 `Silk Touch ➔ Fortune III`
 After Fortune III, it goes back to the first cycle setting.
 
+***
 
 # Reality Infused Netherite Tools
 
@@ -288,6 +297,7 @@ The Reality Shard Infused Netherite Shovel is a tool that can be [Broken](#break
 
 The Reality Infused Netherite Hoe is a tool that can be [Broken](#breaking) from the [Reality Stone Infused Netherite Multitool](#reality-infused-netherite-multitool) or [Forged](#forging) from a [Reality Stone Shard](#reality-stone-shard) and a Netherite Hoe. This tool’s [Configure Enchantments](#configure-enchantments) cycle follows that of the [Reality Infused Multitool](#reality-infused-netherite-multitool).
 
+***
 
 # Infinity Stone Shards
 
@@ -307,6 +317,19 @@ Can be used to [Forge](#forging) individual [Reality Infused Netherite Tools](#r
 ## Mind Stone Shard
 (Currently has no use.)
 
+***
+
+# Breaking
+
+Breaking is a crafting process by which one item, along with the [Iron Hammer](#iron-hammer), thrown on top of any Anvil become multiple items.
+
+***
+
+# Forging
+
+Forging is a crafting process by which multiple items, along with the [Iron Hammer](#iron-hammer), thrown on top of a lit Blast Furnace become one item.
+
+***
 
 # Invulnerable Items
 
@@ -332,13 +355,3 @@ All Invulnerable Items are:
 * [Reality Infused Netherite Axe](#reality-infused-netherite-axe)  
 * [Reality Infused Netherite Shovel](#reality-infused-netherite-shovel)  
 * [Reality Infused Netherite Hoe](#reality-infused-netherite-hoe)
-
-
-# Breaking
-
-Breaking is a crafting process by which one item, along with the [Iron Hammer](#iron-hammer), thrown on top of any Anvil become multiple items.
-
-
-# Forging
-
-Forging is a crafting process by which multiple items, along with the [Iron Hammer](#iron-hammer), thrown on top of a lit Blast Furnace become one item.
