@@ -78,7 +78,7 @@ Alternatively, you can Forge the Soul Stone using 4 [Soul Stone Shards](#soul-st
 
 ### [Forging](#forging) Process
 
-Alternatively, you can Forge the Mind Stone using 4 [Mind Stone Shards](#mind-stone-shard) using the process shown below.
+Alternatively, you can Forge the Mind Stone using 4 [Mind Stone Shards](#mind-stone-shard) and the [Iron Hammer](#iron-hammer).
 
 ***
 
