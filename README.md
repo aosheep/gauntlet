@@ -1,4 +1,4 @@
-# The Official Guide to aosheep’s Infinity Gauntlet Datapack V2.5.5
+# The Official Guide to aosheep’s Infinity Gauntlet Datapack V2.5.6
 
 # Blank Infinity Gauntlet
 
